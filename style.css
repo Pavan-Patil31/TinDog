@@ -1,0 +1,7 @@
+.navbar-nav{
+    justify-content: left;
+}
+.Cards{
+    display: flex;
+    margin-left: 150px;
+}
